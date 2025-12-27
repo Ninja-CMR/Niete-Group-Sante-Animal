@@ -33,7 +33,7 @@
           </li>
           <li class="flex items-center space-x-3">
             <i class="fas fa-phone text-[#C5A059]"></i>
-            <span>+237 6XX XX XX XX</span>
+            <span>+237 695-85-15-02</span>
           </li>
           <li class="flex items-center space-x-3 text-green-400 font-bold">
             <i class="fas fa-clock"></i>

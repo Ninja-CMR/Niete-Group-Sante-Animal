@@ -36,42 +36,44 @@
 <script setup>
 import { ref } from 'vue';
 
+import imageGallery1 from '../assets/Gallery/imageGallery.jpg'
+import imageGallery2 from '../assets/Gallery/imageGallery2.jpg'
+import imageGallery3 from '../assets/Gallery/imageGallery3.jpg'
+import imageGallery4 from '../assets/Gallery/imageGallery4.jpg'
+import imageGallery5 from '../assets/Gallery/imageGallery5.jpg'
+
+
 const galleryItems = ref([
   {
     id: 1,
     title: "Salle de Consultation",
     category: "Nos Installations",
-    image: "https://images.unsplash.com/photo-1629904853716-95f553642337?auto=format&fit=crop&q=80&w=600"
+    image: imageGallery1
   },
   {
     id: 2,
     title: "Chirurgie Assistée",
     category: "Technologie",
-    image: "https://images.unsplash.com/photo-1625246372813-f92500854245?auto=format&fit=crop&q=80&w=600"
+    image: imageGallery3
   },
   {
     id: 3,
     title: "Chiots Heureux",
     category: "Nos Patients",
-    image: "https://images.unsplash.com/photo-1596492784531-fa0181577884?auto=format&fit=crop&q=80&w=600"
+    image: imageGallery2
   },
   {
     id: 4,
     title: "L'Équipe en Action",
     category: "Vie à la Clinique",
-    image: "https://images.unsplash.com/photo-1599388151897-393276f7c461?auto=format&fit=crop&q=80&w=600"
+    image:imageGallery4
   },
   {
     id: 5,
     title: "Soins Ambulatoires",
     category: "Soins Quotidiens",
-    image: "https://images.unsplash.com/photo-1588943211346-0908a176f675?auto=format&fit=crop&q=80&w=600"
+    image: imageGallery5
   },
-  {
-    id: 6,
-    title: "Espace d'Attente",
-    category: "Confort",
-    image: "https://images.unsplash.com/photo-1629904851817-f2771b052140?auto=format&fit=crop&q=80&w=600"
-  }
+
 ]);
 </script>

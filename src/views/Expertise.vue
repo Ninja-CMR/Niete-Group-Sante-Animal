@@ -1,5 +1,5 @@
 <template>
-  <section class="py-20 bg-white px-6">
+  <section id="propos" class="py-20 bg-white px-6">
     <div class="max-w-6xl mx-auto grid md:grid-cols-2 gap-16">
       <div>
         <h3 class="text-[#C5A059] font-bold mb-4 border-l-4 border-[#004D40] pl-4">NOTRE HISTOIRE</h3>

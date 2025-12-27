@@ -37,11 +37,15 @@
 
 <script setup>
 import { ref } from 'vue';
+import onvc from '../assets/partenaire/onvc.jpeg'
+import gfs from '../assets/partenaire/GFS.jpeg'
+import cmurbairne from '../assets/partenaire/cmurbairne.png'
+import caphavet from '../assets/partenaire/caphavet.jpeg'
 
 const partners = ref([
-  { id: 1, name: "Laboratoire Vétérinaire Bio", logo: "https://via.placeholder.com/150x80/004D40/FFFFFF?text=LABO+BIO" },
-  { id: 2, name: "Royal Canin (ou marque locale)", logo: "https://via.placeholder.com/150x80/004D40/FFFFFF?text=NUTRITION" },
-  { id: 3, name: "ONVC - Cameroun", logo: "https://via.placeholder.com/150x80/004D40/FFFFFF?text=ONVC" },
-  { id: 4, name: "Assoc Protection Animale", logo: "https://via.placeholder.com/150x80/004D40/FFFFFF?text=PROTECTION" }
+  { id: 1, name: "ONVC - Cameroun", logo: onvc },
+  { id: 2, name: "Caphavet", logo: caphavet},
+  { id: 3, name: "Global Freightage Services ", logo: gfs },
+  { id: 4, name: "Communauté urbaine de Douala", logo:  cmurbairne  }
 ]);
 </script>

@@ -2,7 +2,6 @@
  import Header from '../components/header.vue'
  import Hero from '../views/Hero.vue'
  import Expertise from '../views/Expertise.vue'
- import reservation from '../views/reservation.vue'
  import equipe from '../views/equipe.vue'
  import News from '../views/blog/News.vue'
  import Pattern from '../views/partenaires.vue'

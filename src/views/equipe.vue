@@ -47,7 +47,7 @@
 
 <script setup>
 import { ref } from 'vue';
-import imageEquipe1 from '../assets/Equipe/imageEquipe1.jpeg'
+import imageEquipe1 from '../assets/Equipe/imageEquipe1.jpg'
 import imageLogo from '../assets/logoImage.jpg'
 
 
