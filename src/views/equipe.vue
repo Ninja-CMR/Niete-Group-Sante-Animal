@@ -1,5 +1,5 @@
 <template>
-  <section class="py-20 bg-[#F9F8F3]">
+  <section id="team" class="py-20 bg-[#F9F8F3]">
     <div class="max-w-6xl mx-auto px-6">
       <div class="text-center mb-16">
         <h2 class="text-[#C5A059] font-bold tracking-[0.3em] uppercase text-sm mb-2">Nos Experts</h2>

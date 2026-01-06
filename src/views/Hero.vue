@@ -1,8 +1,8 @@
 <template>
-  <section class="bg-[#F9F8F3] pt-12 pb-20 px-6">
+  <section id="hero" class="bg-[#F9F8F3] pt-12 pb-20 px-6">
     <div class="max-w-6xl mx-auto text-center">
       <h2 class="text-[#004D40] text-lg font-semibold tracking-[0.2em] mb-2">BIENVENUE CHEZ NIETE GROUP</h2>
-      <h1 class="text-[#004D40] text-4xl md:text-6xl font-serif mb-4">10 ans de passion, une vie de soins.</h1>
+      <h1 class="text-[#004D40] text-4xl md:text-6xl font-serif mb-4">+25 ans de passion, une vie de soins.</h1>
       <p class="text-gray-600 max-w-2xl mx-auto mb-10">
         Basée à PK14, Douala, notre clinique allie expertise médicale et amour des animaux pour garantir le bien-être de vos compagnons.
       </p>
